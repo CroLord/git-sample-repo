@@ -1,0 +1,4 @@
+sssssadasdsad
+git init -initialze git repozitory
+git diff = new
+dsadasdasdsadsadssssssss
